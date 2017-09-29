@@ -5,12 +5,3 @@ object ScalaExample
       println ("Hello Scala")
    }
 }
-
-
-
-//Functional 
-//def scalaExample{
-//   println("Hello World")
-//}
-
-//scalaExample

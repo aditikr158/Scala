@@ -2,7 +2,7 @@ object IfStatement
 {
     def main(args:Array[String])
     {
-        val result=check(-10)
+        val result=check(10)
         println(result)
     }
 

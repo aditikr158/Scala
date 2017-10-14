@@ -34,4 +34,3 @@ Following are the steps to install scala on MacOS :
 	      $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
         - Next install scala by running following command in terminal:
    	      $ brew install scala
-

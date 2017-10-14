@@ -9,6 +9,7 @@ In this repository you can find simple scala programs which can be helpful for b
 Following are the steps to install scala on MacOS :
 
 1.You should have java installed on your machine.
+
     1.1 Check if java is installed already by running following command in terminal:
 	      $ java -version
 	
@@ -20,7 +21,8 @@ Following are the steps to install scala on MacOS :
     1.2 If you don't see the output like above then you need to install Java on your system. 
        Please download the OS X version from the Oracle website(http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html )
 
-2. You can use Homebrew installer.		
+2. You can use Homebrew installer.
+
     2.1 If you already have homebrew installed then follow the following steps:
         - run following command in terminal:
 	        $ brew update 

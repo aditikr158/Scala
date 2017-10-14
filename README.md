@@ -24,6 +24,7 @@ Following are the steps to install scala on MacOS :
 2. You can use Homebrew installer.
 
     2.1 If you already have homebrew installed then follow the following steps:
+    
         - run following command in terminal:
 	        $ brew update 
 
@@ -31,6 +32,7 @@ Following are the steps to install scala on MacOS :
 	        $ brew install scala
 
     2.2 If you don't have homebrew installed then follow the following steps:
+    
         - First make sure you have xcode installed(its free in the Mac App Store).
         - Next install homebrew by running following command in terminal:
 	      $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"

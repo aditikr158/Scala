@@ -29,6 +29,6 @@ object CallByName
     def delayed(t : => Long) =
     {
         println("In delayed method")
-        println("Param :"+ t)
+        println("Param :"+t)
     }
 }

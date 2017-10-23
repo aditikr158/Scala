@@ -2,7 +2,7 @@ object VariableArgument
 {
     def main(args:Array[String])
     {
-        printStrings("Apple", "Orange", "Grapes")
+        printStrings("Apple", "Orange","Grapes")
     }
 
     def printStrings(args: String*)
